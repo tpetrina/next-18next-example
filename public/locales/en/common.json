@@ -1,5 +1,5 @@
 {
-  "h1": "A simple example",
+  "h1": "A simple example!",
   "change-locale": "Change locale to \"{{changeTo}}\"",
   "to-second-page": "To second page",
   "error-with-status": "A {{statusCode}} error occurred on server",
@@ -22,5 +22,6 @@
       "link": "https://locize.com/blog/next-i18n-static/"
     }
   },
-  "test": "test2025-07-01T15:53:13.867Z"
+  "test": "test2025-07-01T15:53:13.867Z",
+  "blog.appDir.answer": "Then check out <1>this blog post</1>.!"
 }
