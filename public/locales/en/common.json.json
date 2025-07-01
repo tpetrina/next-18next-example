@@ -1,0 +1,8 @@
+{
+  "h1": "A simple example!",
+  "blog": {
+    "appDir": {
+      "answer": "Then check out <1>this blog post</1>.!"
+    }
+  }
+}
