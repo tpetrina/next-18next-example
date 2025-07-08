@@ -1,10 +1,10 @@
 {
-  "h1": "Ein einfaches Beispiel",
+  "h1": "A simple example!!",
   "change-locale": "Sprache wechseln zu \"{{changeTo}}\"",
   "to-second-page": "Zur zweiten Seite",
   "error-with-status": "Auf dem Server ist ein Fehler ({{statusCode}}) aufgetreten",
   "error-without-status": "Auf dem Server ist ein Fehler aufgetreten",
-  "title": "Hauptseite | next-i18next",
+  "title": "Hauptseite | next-i18next1",
   "blog": {
     "appDir": {
       "question": "Verwendest du das neue Next.js 13 mit app directory?",
